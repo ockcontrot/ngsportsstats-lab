@@ -1,2 +1,14 @@
 # ngsportsstats-lab
-HTML page archive and documentation
+
+静态页面发布集合
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
